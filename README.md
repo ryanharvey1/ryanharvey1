@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 - 🧠 Research interests: hippocampus, replay, sharp-wave ripples, place cells, memory
 
 
+![replay_figure](https://raw.githubusercontent.com/ryanharvey1/ryanharvey1/master/replay_figure.pdf)]
+
+<img src="https://raw.githubusercontent.com/ryanharvey1/ryanharvey1/master/replay_figure.pdf" width="30px">
+
 
 
