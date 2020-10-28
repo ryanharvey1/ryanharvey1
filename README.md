@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+![replay_figure](https://github.com/ryanharvey1/ryanharvey1/blob/main/replay_figure.png)
+
 
 - ⚡ Fun fact: ...
 -->
@@ -16,10 +18,7 @@ Here are some ideas to get you started:
 - 🔬 Currently a PhD candidate in Benjamin Clark's lab at the University of New Mexico
 - 🧠 Research interests: hippocampus, replay, sharp-wave ripples, place cells, memory
 
-
-![replay_figure](https://raw.githubusercontent.com/ryanharvey1/ryanharvey1/master/replay_figure.pdf)]
-
-<img src="https://raw.githubusercontent.com/ryanharvey1/ryanharvey1/master/replay_figure.pdf" width="30px">
+<img src="https://github.com/ryanharvey1/ryanharvey1/blob/main/replay_figure.png" width="500px">
 
 
 
