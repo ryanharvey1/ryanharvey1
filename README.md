@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 😎 My name is Ryan Harvey
 - 🔬 Currently a PhD candidate in Benjamin Clark's lab at the University of New Mexico
-- 🤔 Searching for a postdoc position for 2021
+- 🤩 Excited to start my postdoc in 2021
 - 🧠 Research interests: hippocampus, replay, sharp-wave ripples, place cells, memory
 
 <img src="https://github.com/ryanharvey1/ryanharvey1/blob/main/replay_figure.png" width="500px">
