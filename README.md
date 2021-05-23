@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 😎 My name is Ryan Harvey
-- 🔬 Just finished my PhD in Benjamin Clark's lab at the University of New Mexico
+- 🔬 Just finished my PhD at the University of New Mexico
 - 🤩 Excited to start my postdoc in 2021
 - 🧠 Research interests: hippocampus, replay, sharp-wave ripples, place cells, memory
 
