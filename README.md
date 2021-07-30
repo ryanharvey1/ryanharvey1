@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 😎 My name is Ryan Harvey
 - 🔬 Just finished my PhD at the University of New Mexico
-- 🤩 Excited to start my postdoc in 2021
+- 🤩 Started my postdoc at Cornell University 
 - 🧠 Research interests: hippocampus, replay, sharp-wave ripples, place cells, memory
 
 <img src="https://github.com/ryanharvey1/ryanharvey1/blob/main/replay_figure.png" width="500px">
