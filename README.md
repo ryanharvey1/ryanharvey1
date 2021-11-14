@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 ![replay_figure](https://github.com/ryanharvey1/ryanharvey1/blob/main/replay_figure.png)
 
+<img src="https://github.com/ryanharvey1/ryanharvey1/blob/main/replay_figure.png" width="500px">
 
 - ⚡ Fun fact: ...
 -->
@@ -19,7 +20,6 @@ Here are some ideas to get you started:
 - 🤩 Started my postdoc at Cornell University 
 - 🧠 Research interests: hippocampus, replay, sharp-wave ripples, place cells, memory
 
-<img src="https://github.com/ryanharvey1/ryanharvey1/blob/main/replay_figure.png" width="500px">
 
 
 
